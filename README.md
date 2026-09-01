@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="./assets/profile-banner.svg" alt="Oussama Essalmani — AI tooling, backend systems, and full-stack products" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-banner-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-banner.svg" />
+    <img src="./assets/profile-banner.svg" alt="Oussama Essalmani — AI tooling, backend systems, and full-stack products" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
