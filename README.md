@@ -53,7 +53,6 @@ I care about explicit state, narrow interfaces, useful failure modes, and tools 
 
 I'm developing [**Agent Relay**](https://github.com/Oussamoux1234/agent-relay), a local-first continuity layer for user-owned AI agents. The goal is straightforward: move verified work state without transferring hidden reasoning or repeating uncertain actions.
 
-**Core tools:** Python · Java · TypeScript · Spring Boot · Next.js · Node.js · Express · MySQL · Maven · Git · JSON Schema
 
 <p align="center">
   <a href="https://github.com/Oussamoux1234?tab=repositories"><strong>Explore the rest of my work →</strong></a>
