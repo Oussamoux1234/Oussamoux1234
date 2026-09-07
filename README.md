@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/Oussamoux1234/agent-relay"><strong>Flagship project</strong></a> ·
-  <a href="#start-here">Start here</a> ·
+  <a href="#selected-work">Selected work</a> ·
   <a href="#engineering-profile">Engineering profile</a> ·
   <a href="https://github.com/Oussamoux1234?tab=repositories">All repositories</a>
 </p>
@@ -22,16 +22,21 @@
 
 I'm a software engineer who turns multi-step workflows into systems that are easier to understand, operate, and extend. My work spans **AI agent coordination**, **Java and Spring services**, and **TypeScript product development**.
 
-I care about explicit state, narrow interfaces, useful failure modes, and tools that remain understandable after the demo is over.
+Most of my current work sits at the boundary between agent coordination and dependable software delivery: preserve state, make failure explicit, and keep people in control of consequential changes.
 
-## Start here
+## Selected work
 
-| Project | Why it exists | Core stack |
+These are the two repositories that best represent how I design and validate software today.
+
+| Project | What it demonstrates | Inspect |
 | --- | --- | --- |
-| [**Agent Relay**](https://github.com/Oussamoux1234/agent-relay) | Preserves explicit, versioned task state when work moves between AI coding agents. Handoffs are previewed, validated, and recoverable. | Python · CLI · JSON |
-| [**Codex Council**](https://github.com/Oussamoux1234/codex-council) | Pressure-tests important decisions with independent advisors, anonymous peer review, deterministic aggregation, and bounded debate. | Python · Codex plugins · JSON Schema |
-| [**Spring Cloud Microservices**](https://github.com/Oussamoux1234/microservices) | Demonstrates service discovery, gateway routing, load balancing, and independently deployable domain services in one multi-module system. | Java 17 · Spring Boot · Spring Cloud · Maven |
-| [**E-learning Platform**](https://github.com/Oussamoux1234/e-learning) | Connects a modern course experience to an authenticated, SQL-backed API across a complete web product. | Next.js · TypeScript · Express · MySQL |
+| [**Agent Relay**](https://github.com/Oussamoux1234/agent-relay) | Local-first task continuity, explicit checkpoints, safe handoffs, and recoverable execution across user-owned AI agents. | [Run the demo](https://github.com/Oussamoux1234/agent-relay#run-the-harmless-demo) · [Architecture](https://github.com/Oussamoux1234/agent-relay#architecture) · [Tests](https://github.com/Oussamoux1234/agent-relay/tree/main/tests) |
+| [**Codex Council**](https://github.com/Oussamoux1234/codex-council) | Independent advisor runs, anonymous peer review, deterministic aggregation, and bounded debate for consequential decisions. | [Workflow](https://github.com/Oussamoux1234/codex-council#council-stages) · [Architecture](https://github.com/Oussamoux1234/codex-council/blob/main/docs/architecture.md) · [Latest release](https://github.com/Oussamoux1234/codex-council/releases/latest) |
+
+### Earlier product systems
+
+- [**Spring Cloud Microservices**](https://github.com/Oussamoux1234/microservices) — service discovery, gateway routing, load balancing, and independently deployable services with Java 17, Spring Boot, Spring Cloud, and Maven.
+- [**E-learning Platform**](https://github.com/Oussamoux1234/e-learning) — an authenticated, SQL-backed course product spanning Next.js, TypeScript, Express, and MySQL.
 
 ## Engineering profile
 
@@ -49,11 +54,12 @@ I care about explicit state, narrow interfaces, useful failure modes, and tools 
 - **Keep the operating model simple.** Every dependency and automation should earn its maintenance cost.
 - **Design the fallback path.** A recoverable failure is part of the product, not an afterthought.
 
-## Current focus
+## Collaborate
 
-I'm developing [**Agent Relay**](https://github.com/Oussamoux1234/agent-relay), a local-first continuity layer for user-owned AI agents. The goal is straightforward: move verified work state without transferring hidden reasoning or repeating uncertain actions.
-
+If you're exploring reliable agent workflows, local-first developer tools, or backend architecture, open a focused issue in the relevant repository. Include the use case, constraints, and a concrete outcome—that is the fastest way to start a useful technical conversation.
 
 <p align="center">
-  <a href="https://github.com/Oussamoux1234?tab=repositories"><strong>Explore the rest of my work →</strong></a>
+  <a href="https://github.com/Oussamoux1234/agent-relay/issues"><strong>Agent Relay issues</strong></a> ·
+  <a href="https://github.com/Oussamoux1234/codex-council/issues"><strong>Codex Council issues</strong></a> ·
+  <a href="https://github.com/Oussamoux1234?tab=repositories">All repositories</a>
 </p>
