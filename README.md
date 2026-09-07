@@ -7,9 +7,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Oussamoux1234/agent-relay"><img src="https://img.shields.io/badge/Building-Agent%20Relay-7C3AED?style=flat-square" alt="Building Agent Relay" /></a>
-  <a href="https://github.com/Oussamoux1234?tab=repositories"><img src="https://img.shields.io/badge/Explore-Open%20source-0EA5E9?style=flat-square&logo=github" alt="Explore open-source repositories" /></a>
-  <img src="https://img.shields.io/badge/Focus-Reliable%20AI%20systems-10B981?style=flat-square" alt="Focus: reliable AI systems" />
+  <strong>AI tooling · Backend engineering · Full-stack products</strong><br />
+  <a href="https://github.com/Oussamoux1234/agent-relay">Agent Relay</a> ·
+  <a href="https://github.com/Oussamoux1234?tab=repositories">All projects</a>
 </p>
 
 ## About me
@@ -31,16 +31,10 @@ I'm a software engineer focused on **agentic developer tools**, **reliable backe
 
 ## Toolbox
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-</p>
+- **Languages:** Python · Java · TypeScript
+- **Backend:** Spring Boot · Node.js · Express
+- **Frontend:** Next.js · Tailwind CSS
+- **Data and tooling:** MySQL · Git · Maven · JSON Schema
 
 ## What I'm working on
 
