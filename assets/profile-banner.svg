@@ -1,28 +1,71 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
-  <title id="title">Oussama Essalmani</title>
-  <desc id="desc">Software engineer building AI tools, backend systems, and full-stack products</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+  <title id="title">Oussama Essalmani - software engineer</title>
+  <desc id="desc">Terminal-style profile summary for a software engineer building reliable agent infrastructure, backend systems, and full-stack products</desc>
 
   <defs>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#1a7f37" />
-      <stop offset="1" stop-color="#2da44e" />
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1f883d" />
+      <stop offset="1" stop-color="#0969da" />
     </linearGradient>
   </defs>
 
-  <rect width="1200" height="300" rx="20" fill="#ffffff" />
-  <rect x="1" y="1" width="1198" height="298" rx="19" fill="none" stroke="#d0d7de" stroke-width="2" />
+  <rect width="1200" height="360" rx="18" fill="#ffffff" />
+  <rect x="1" y="1" width="1198" height="358" rx="17" fill="none" stroke="#d0d7de" stroke-width="2" />
+  <path d="M1 46H1199" stroke="#d8dee4" />
+  <rect x="1" y="1" width="1198" height="45" rx="17" fill="#f6f8fa" />
+  <path d="M1 46H1199" stroke="#d0d7de" />
 
-  <rect x="72" y="70" width="48" height="4" rx="2" fill="url(#accent)" />
-
-  <g font-family="Arial, Helvetica, sans-serif">
-    <text x="72" y="132" fill="#1f2328" font-size="46" font-weight="700" letter-spacing="-1">Oussama Essalmani</text>
-    <text x="72" y="179" fill="#59636e" font-size="22">Software engineer building reliable systems</text>
-    <text x="72" y="222" fill="#1a7f37" font-size="16" font-weight="600" letter-spacing="1.3">AI TOOLING  ·  BACKEND ENGINEERING  ·  FULL-STACK PRODUCTS</text>
+  <g aria-hidden="true">
+    <circle cx="26" cy="23" r="6" fill="#ff5f56" />
+    <circle cx="46" cy="23" r="6" fill="#ffbd2e" />
+    <circle cx="66" cy="23" r="6" fill="#27c93f" />
   </g>
 
-  <g transform="translate(1010 150)">
-    <circle r="66" fill="#f6f8fa" stroke="#d0d7de" stroke-width="2" />
-    <circle r="52" fill="none" stroke="url(#accent)" stroke-width="2" />
-    <text x="0" y="11" text-anchor="middle" fill="#1f2328" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" letter-spacing="1">OE</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <text x="92" y="29" fill="#57606a" font-size="14">oussama@github:~/profile</text>
+
+    <g transform="translate(1052 23)">
+      <circle cx="0" cy="0" r="5" fill="#cf222e">
+        <animate attributeName="opacity" values="1;0.3;1" dur="2s" repeatCount="indefinite" />
+      </circle>
+      <text x="14" y="5" fill="#57606a" font-size="13" font-weight="700">LIVE</text>
+    </g>
+
+    <rect x="48" y="79" width="5" height="209" rx="2.5" fill="url(#accent)" />
+    <text x="76" y="126" fill="#1f2328" font-size="44" font-weight="700" letter-spacing="-1.5">Oussama Essalmani</text>
+    <text x="76" y="165" fill="#57606a" font-size="20">Building reliable software that stays understandable.</text>
+
+    <g transform="translate(76 195)">
+      <rect width="414" height="34" rx="17" fill="#dafbe1" stroke="#aceebb" />
+      <text x="18" y="22" fill="#116329" font-size="13" font-weight="700" letter-spacing="0.7">BUILDING  //  LEARNING  //  SHIPPING</text>
+    </g>
+
+    <text x="76" y="265" fill="#0969da" font-size="14" font-weight="700">AI AGENTS</text>
+    <text x="185" y="265" fill="#8c959f" font-size="14">/</text>
+    <text x="204" y="265" fill="#0969da" font-size="14" font-weight="700">BACKEND SYSTEMS</text>
+    <text x="360" y="265" fill="#8c959f" font-size="14">/</text>
+    <text x="379" y="265" fill="#0969da" font-size="14" font-weight="700">FULL-STACK PRODUCTS</text>
+
+    <g transform="translate(728 76)">
+      <rect width="424" height="218" rx="14" fill="#f6f8fa" stroke="#d0d7de" />
+      <text x="24" y="34" fill="#1f883d" font-size="14" font-weight="700" letter-spacing="1">SYSTEM.INFO</text>
+      <path d="M24 50H400" stroke="#d8dee4" />
+
+      <g font-size="14">
+        <text x="24" y="82" fill="#6e7781">FOCUS</text>
+        <text x="400" y="82" text-anchor="end" fill="#1f2328">agent-relay</text>
+        <text x="24" y="116" fill="#6e7781">MODE</text>
+        <text x="400" y="116" text-anchor="end" fill="#1f2328">local-first</text>
+        <text x="24" y="150" fill="#6e7781">CORE</text>
+        <text x="400" y="150" text-anchor="end" fill="#1f2328">Python / Java / TypeScript</text>
+        <text x="24" y="184" fill="#6e7781">PRINCIPLE</text>
+        <text x="400" y="184" text-anchor="end" fill="#1f2328">evidence before automation</text>
+      </g>
+    </g>
+
+    <text x="48" y="329" fill="#57606a" font-size="14">&gt; ship --small --auditable --reliable</text>
+    <rect x="370" y="315" width="8" height="18" fill="#1f883d">
+      <animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite" />
+    </rect>
   </g>
 </svg>
